@@ -1,2 +1,2 @@
 # sampleRepo
-To learn
+To learn things

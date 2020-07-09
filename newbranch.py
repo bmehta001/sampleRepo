@@ -5,4 +5,4 @@ def add(a, b):
 
 
 def makechanges(a):
-    return a*2
+    return a*2*2
